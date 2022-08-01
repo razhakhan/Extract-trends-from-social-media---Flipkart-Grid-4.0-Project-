@@ -1,6 +1,10 @@
 # Extract-trends-from-social-media--Flipkart-Grid-4.0-Project-Team-Vengeance
 
-Full Demo Video : https://youtu.be/X1WTCclDuuQ 
+FULL DEMO VIDEO : https://youtu.be/X1WTCclDuuQ 
+
+DOWNLOAD DEMO VIDEO FROM DROPBOX : https://www.dropbox.com/s/8t39z3b6akuse9i/Compressed%20Project%20Demo%20Video.mp4?dl=0
+
+DOWNLOAD DEMO VIDEO FROM GOOGLE DRIVE : https://drive.google.com/file/d/1RLWXtY6H_9NhL6fjRoXy6zgTgM2_7XhV/view?usp=sharing
 
 Overall Problem :
 
