@@ -1,5 +1,7 @@
 # Extract-trends-from-social-media--Flipkart-Grid-4.0-Project-Team-Vengeance
 
+Full Demo Video : https://youtu.be/X1WTCclDuuQ 
+
 Overall Problem :
 
 Identify trends on social media based on category. We are restricting to Fashion as a category for the project and displaying Ranking/scoring logic for trends extracted. This project is made in accordance with Option 1 in Deliverable 1.
