@@ -25,10 +25,8 @@ We can calculate the trending score by storing number of tweets posted in the la
 4. Get sample links from which the trend is derived.
 We can search the recent tweets containing our keyword using Tweepy and get the id of these tweets, using this id we have constructed the URL of the tweet.
 
-
 5. Get sample images related to the keyword.
 To get the sample images, we're taking the help of icrawler, an API that's used to scrap Google Images. We're searching for related images on google images site and downloading these images into seperate folders - trend 1, trend 2....trend n. We'll use these images on our web portal.
-
 
 6. Get flipkart products related to the keyword.
 We're using the Flipkart scraper API to scrape search results and product details from Flipkart. We'll use our found keywords, search them on Flipkart using the API and get the  product name and url. We'll display these details on our web portal and users can directly go to Flipkart from these links.
