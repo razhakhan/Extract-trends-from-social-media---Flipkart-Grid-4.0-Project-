@@ -13,7 +13,7 @@ Get sample links from which the trend is derived.
 Get sample images related to the keyword.
 Get flipkart products related to the keyword.
 
-  1.Get a list of trending keywords from the internet.
+1. Get a list of trending keywords from the internet.
 We are using google trends to tackle this sub problem. Using google trends, we can get the trending keywords present in queries searched on the Google website. We can access Google Trends data in python using Pytrends API. We are filtering results by Shopping category, Fashion sub-category and Location as India.
 
 2. Select only those keywords that are creating a lot of buzz on social media.
